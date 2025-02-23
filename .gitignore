@@ -1,0 +1,16 @@
+.DS_Store
+.env
+build
+node_modules
+
+# We only use pnpm.
+bun.lockb
+package-lock.json
+yarn.lock
+
+# Khulnasoft extension CLI.
+khulnasoft-extension
+
+# Directories used by the Khulnasoft Extension CLI.
+/scratch
+/output

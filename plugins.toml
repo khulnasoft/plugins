@@ -1,0 +1,1940 @@
+[0x96f]
+submodule = "plugins/0x96f"
+version = "1.2.5"
+
+[actionscript]
+submodule = "plugins/actionscript"
+version = "0.0.1"
+
+[activitywatch]
+submodule = "plugins/activitywatch"
+version = "0.1.1"
+
+[ada]
+submodule = "plugins/ada"
+version = "0.3.0"
+
+[adaltas-theme]
+submodule = "plugins/adaltas-theme"
+version = "0.0.2"
+
+[adech]
+submodule = "plugins/adech"
+version = "2.0.1"
+
+[adwaita-pastel]
+submodule = "plugins/adwaita-pastel"
+version = "0.0.2"
+
+[agda]
+submodule = "plugins/agda"
+version = "0.1.0"
+
+[aiken]
+submodule = "plugins/aiken"
+version = "1.0.0"
+
+[alabaster]
+submodule = "plugins/alabaster"
+version = "0.0.2"
+
+[amber]
+submodule = "plugins/amber"
+version = "0.1.2"
+
+[amber-monochrome-monitor-crt-phosphor]
+submodule = "plugins/amber-monochrome-monitor-crt-phosphor"
+version = "0.1.3"
+
+[ansible]
+submodule = "plugins/ansible"
+version = "0.1.0"
+
+[anya]
+submodule = "plugins/anya"
+version = "0.0.2"
+
+[aquarium-theme]
+submodule = "plugins/aquarium-theme"
+version = "0.7.0"
+
+[ariake]
+submodule = "plugins/ariake"
+version = "0.0.1"
+
+[asciidoc]
+submodule = "plugins/asciidoc"
+version = "0.0.1"
+
+[assembly]
+submodule = "plugins/assembly"
+version = "0.0.1"
+
+[asteroid]
+submodule = "plugins/asteroid"
+version = "0.0.1"
+
+[astro]
+submodule = "plugins/astro"
+version = "0.1.3"
+
+[atomize]
+submodule = "plugins/atomize"
+version = "0.0.1"
+
+[aura-theme]
+submodule = "plugins/aura"
+path = "packages/khulnasoft"
+version = "1.0.0"
+
+[autocorrect]
+submodule = "plugins/autocorrect"
+version = "0.1.0"
+
+[awk]
+submodule = "plugins/awk"
+version = "0.0.1"
+
+[axolosin]
+submodule = "plugins/axolosin"
+version = "1.1.0"
+
+[aylin-theme]
+submodule = "plugins/aylin-theme"
+version = "0.6.0"
+
+[aystra]
+submodule = "plugins/aystra"
+version = "0.0.2"
+
+[ayu-darker]
+submodule = "plugins/ayu-darker"
+version = "1.0.0"
+
+[barbenheimer]
+submodule = "plugins/barbenheimer"
+version = "1.0.1"
+
+[base16]
+submodule = "plugins/base16"
+version = "0.1.1"
+
+[basedpyright]
+submodule = "plugins/basedpyright"
+version = "0.1.1"
+
+[basher]
+submodule = "plugins/basher"
+version = "0.0.1"
+
+[batman]
+submodule = "plugins/batman"
+version = "0.0.1"
+
+[beancount]
+submodule = "plugins/beancount"
+version = "0.0.5"
+
+[bearded]
+submodule = "plugins/bearded"
+version = "1.0.0"
+
+[bearded-icon-theme]
+submodule = "plugins/bearded-icon-theme"
+version = "0.3.0"
+
+[becker-theme]
+submodule = "plugins/becker-theme"
+version = "0.0.2"
+
+[bend]
+submodule = "plugins/bend"
+version = "0.0.1"
+
+[bicep]
+submodule = "plugins/bicep"
+version = "1.0.1"
+
+[biome]
+submodule = "plugins/biome"
+version = "0.1.4"
+
+[bitbake]
+submodule = "plugins/bitbake"
+version = "0.0.4"
+
+[blackfox]
+submodule = "plugins/blackfox"
+version = "0.1.0"
+
+[blackula]
+submodule = "plugins/blackula"
+version = "0.1.1"
+
+[blade]
+submodule = "plugins/blade"
+version = "0.0.4"
+
+[blade-runner-2049]
+submodule = "plugins/blade-runner-2049"
+version = "1.0.4"
+
+[blanche]
+submodule = "plugins/blanche"
+version = "0.0.1"
+
+[blankeos-zen]
+submodule = "plugins/blankeos-zen"
+version = "0.0.4"
+
+[blueprint]
+submodule = "plugins/blueprint"
+version = "0.1.0"
+
+[bqn]
+submodule = "plugins/bqn"
+version = "0.0.1"
+
+[brainfuck]
+submodule = "plugins/brainfuck"
+version = "0.0.4"
+
+[brook-code-theme]
+submodule = "plugins/brook-code-theme"
+version = "1.0.0"
+
+[c3]
+submodule = "plugins/c3"
+version = "0.0.2"
+
+[caddyfile]
+submodule = "plugins/caddyfile"
+version = "0.0.1"
+
+[cadence]
+submodule = "plugins/cadence"
+version = "0.0.2"
+
+[cairo]
+submodule = "plugins/cairo"
+version = "0.0.5"
+
+[call-trans-opt-received]
+submodule = "plugins/call-trans-opt-received"
+version = "0.1.1"
+
+[capnp]
+submodule = "plugins/capnp"
+version = "0.0.1"
+
+[cargo-appraiser]
+submodule = "plugins/cargo-appraiser"
+version = "0.0.1"
+
+[cargo-tom]
+submodule = "plugins/cargo-tom"
+version = "0.4.1"
+
+[catbox]
+submodule = "plugins/catbox"
+version = "0.0.1"
+
+[catppuccin]
+submodule = "plugins/catppuccin"
+version = "0.2.20"
+
+[catppuccin-blur]
+submodule = "plugins/catppuccin-blur"
+version = "0.1.25"
+
+[catppuccin-blur-plus]
+submodule = "plugins/catppuccin-blur-plus"
+version = "0.1.1"
+
+[catppuccin-icons]
+submodule = "plugins/catppuccin-icons"
+version = "1.17.4"
+
+[cedar]
+submodule = "plugins/cedar"
+version = "0.0.1"
+
+[cfengine]
+submodule = "plugins/cfengine"
+version = "1.0.1"
+
+[cfml]
+submodule = "plugins/cfml"
+version = "0.1.5"
+
+[chai-theme]
+submodule = "plugins/chai-theme"
+version = "0.0.1"
+
+[chanterelle]
+submodule = "plugins/chanterelle"
+version = "0.0.1"
+
+[chatgpt]
+submodule = "plugins/chatgpt"
+version = "0.1.3"
+
+[cisco-theme]
+submodule = "plugins/cisco-theme"
+version = "1.0.0"
+
+[city-lights]
+submodule = "plugins/city-lights"
+version = "0.0.2"
+
+[clojure]
+submodule = "plugins/clojure"
+version = "0.2.0"
+
+[cobalt2]
+submodule = "plugins/cobalt2"
+version = "0.1.0"
+
+[cobol]
+submodule = "plugins/cobol"
+version = "0.0.3"
+
+[code-stats]
+submodule = "plugins/code-stats"
+version = "0.2.6"
+
+[codebook]
+submodule = "plugins/codebook"
+version = "0.1.3"
+
+[codesandbox-theme]
+submodule = "plugins/codesandbox-theme"
+version = "0.0.5"
+
+[colored-khulnasoft-icons-theme]
+submodule = "plugins/colored-khulnasoft-icons-theme"
+version = "0.3.0"
+
+[colorizer]
+submodule = "plugins/colorizer"
+version = "0.0.4"
+
+[confluence-context-server]
+submodule = "plugins/confluence-context-server"
+version = "1.0.0"
+
+[conl]
+submodule = "plugins/conl"
+version = "1.0.0"
+
+[cooklang]
+submodule = "plugins/cooklang"
+version = "1.3.3"
+
+[cosmos]
+submodule = "plugins/cosmos"
+version = "0.0.1"
+
+[cpp2]
+submodule = "plugins/cpp2"
+version = "0.1.0"
+
+[crystal]
+submodule = "plugins/crystal"
+version = "0.0.3"
+
+[crystal-theme]
+submodule = "plugins/crystal-theme"
+version = "0.0.1"
+
+[csharp]
+submodule = "plugins/khulnasoft"
+path = "plugins/csharp"
+version = "0.1.1"
+
+[cspell]
+submodule = "plugins/cspell"
+version = "0.0.2"
+
+[csv]
+submodule = "plugins/csv"
+version = "0.0.2"
+
+[cucumber]
+submodule = "plugins/cucumber"
+version = "0.0.2"
+
+[cue]
+submodule = "plugins/cue"
+version = "0.0.4"
+
+[curry]
+submodule = "plugins/curry"
+version = "0.0.1"
+
+[cyan-light-theme]
+submodule = "plugins/cyan-light-theme"
+version = "0.7.0"
+
+[cylc]
+submodule = "plugins/cylc"
+version = "0.2.0"
+
+[cypher]
+submodule = "plugins/cypher"
+version = "0.0.1"
+
+[cython]
+submodule = "plugins/cython"
+version = "0.2.0"
+
+[d]
+submodule = "plugins/d"
+version = "0.0.8"
+
+[d2]
+submodule = "plugins/d2"
+version = "0.1.0"
+
+[dafny]
+submodule = "plugins/dafny"
+version = "0.0.1"
+
+[dart]
+submodule = "plugins/dart"
+version = "0.1.3"
+
+[dbml]
+submodule = "plugins/dbml"
+version = "0.0.1"
+
+[decorative-stitch]
+submodule = "plugins/decorative-stitch"
+version = "1.0.0"
+
+[denix]
+submodule = "plugins/denix"
+version = "0.0.9"
+
+[deno]
+submodule = "plugins/khulnasoft"
+path = "plugins/deno"
+version = "0.1.0"
+
+[devicetree]
+submodule = "plugins/devicetree"
+version = "0.0.1"
+
+[discord-presence]
+submodule = "plugins/discord-presence"
+version = "0.2.2"
+
+[docker-compose]
+submodule = "plugins/docker-compose"
+version = "0.1.0"
+
+[dockerfile]
+submodule = "plugins/dockerfile"
+version = "0.0.4"
+
+[dracula]
+submodule = "plugins/dracula"
+version = "0.9.2"
+
+[duckyscript]
+submodule = "plugins/duckyscript"
+version = "0.0.1"
+
+[dune-theme]
+submodule = "plugins/dune-theme"
+version = "1.1.0"
+
+[earthfile]
+submodule = "plugins/earthfile"
+version = "0.1.0"
+
+[edi]
+submodule = "plugins/edi"
+version = "0.0.2"
+
+[eiffel-theme]
+submodule = "plugins/eiffel-theme"
+version = "0.0.2"
+
+[ejs]
+submodule = "plugins/ejs"
+version = "0.0.1"
+
+[elisp]
+submodule = "plugins/elisp"
+version = "0.0.4"
+
+[elixir]
+submodule = "plugins/khulnasoft"
+path = "plugins/elixir"
+version = "0.1.4"
+
+[elm]
+submodule = "plugins/elm"
+version = "0.1.0"
+
+[ember]
+submodule = "plugins/ember"
+version = "0.0.1"
+
+[ember-theme]
+submodule = "plugins/ember-theme"
+version = "0.9.0"
+
+[emmet]
+submodule = "plugins/khulnasoft"
+path = "plugins/emmet"
+version = "0.0.3"
+
+[env]
+submodule = "plugins/env"
+version = "0.0.1"
+
+[erlang]
+submodule = "plugins/khulnasoft"
+path = "plugins/erlang"
+version = "0.1.1"
+
+[everforest]
+submodule = "plugins/everforest"
+version = "0.0.2"
+
+[evil-rabbit-theme]
+submodule = "plugins/evil-rabbit-theme"
+version = "0.0.1"
+
+[exograph]
+submodule = "plugins/exograph"
+version = "0.0.2"
+
+[exquisite]
+submodule = "plugins/exquisite"
+version = "0.1.3"
+
+[fiberplane-studio]
+submodule = "plugins/fiberplane-studio"
+version = "0.1.1"
+
+[firebase-security-rules]
+submodule = "plugins/firebase-security-rules"
+version = "0.0.1"
+
+[fish]
+submodule = "plugins/fish"
+version = "0.0.8"
+
+[flat-theme]
+submodule = "plugins/flat-theme"
+version = "0.5.0"
+
+[flatbuffers]
+submodule = "plugins/flatbuffers"
+version = "0.0.1"
+
+[fleet-themes]
+submodule = "plugins/fleet-themes"
+version = "1.1.0"
+
+[flexoki-themes]
+submodule = "plugins/flexoki-themes"
+version = "0.0.1"
+
+[flutter-snippets]
+submodule = "plugins/flutter-snippets"
+version = "0.1.0"
+
+[focus-theme]
+submodule = "plugins/focus-theme"
+version = "0.0.1"
+
+[fortran]
+submodule = "plugins/fortran"
+version = "0.0.2"
+
+[fountain]
+submodule = "plugins/fountain"
+version = "0.0.8"
+
+[frosted-theme]
+submodule = "plugins/frosted-theme"
+version = "0.0.1"
+
+[fsharp]
+submodule = "plugins/fsharp"
+version = "0.0.5"
+
+[fsm]
+submodule = "plugins/fsm"
+version = "0.3.0"
+
+[gdscript]
+submodule = "plugins/gdscript"
+version = "0.4.0"
+
+[gem]
+submodule = "plugins/gem"
+path = "crates/khulnasoft-plugin-gem"
+version = "0.0.1"
+
+[gemini]
+submodule = "plugins/gemini"
+version = "0.0.1"
+
+[gentle-dark]
+submodule = "plugins/gentle-dark"
+version = "1.1.0"
+
+[git-firefly]
+submodule = "plugins/git-firefly"
+version = "0.0.3"
+
+[github-copilot-theme]
+submodule = "plugins/github-copilot-theme"
+version = "0.1.0"
+
+[github-dark-default]
+submodule = "plugins/github-dark-default"
+version = "1.0.7"
+
+[github-monochrome-theme]
+submodule = "plugins/github-monochrome-theme"
+version = "0.0.1"
+
+[github-theme]
+submodule = "plugins/github-theme"
+version = "0.1.3"
+
+[glazier]
+submodule = "plugins/glazier"
+version = "0.0.2"
+
+[gleam]
+submodule = "plugins/gleam"
+version = "0.3.0"
+
+[gleam-theme]
+submodule = "plugins/gleam-theme"
+version = "0.2.0"
+
+[glsl]
+submodule = "plugins/khulnasoft"
+path = "plugins/glsl"
+version = "0.1.0"
+
+[golangci-lint]
+submodule = "plugins/golangci-lint"
+version = "0.1.0"
+
+[gosum]
+submodule = "plugins/gosum"
+version = "0.0.1"
+
+[graphene]
+submodule = "plugins/graphene"
+version = "0.2.1"
+
+[graphql]
+submodule = "plugins/graphql"
+version = "1.0.0"
+
+[graphviz]
+submodule = "plugins/graphviz"
+version = "0.1.0"
+
+[green-monochrome-monitor-crt-phosphor]
+submodule = "plugins/green-monochrome-monitor-crt-phosphor"
+version = "0.1.3"
+
+[gren]
+submodule = "plugins/gren"
+version = "0.1.0"
+
+[grey-theme]
+submodule = "plugins/grey-theme"
+version = "0.1.0"
+
+[groovy]
+submodule = "plugins/groovy"
+version = "1.1.0"
+
+[groq]
+submodule = "plugins/groq"
+version = "0.0.1"
+
+[gruber-darker]
+submodule = "plugins/gruber-darker"
+version = "0.0.7"
+
+[gruber-flavors]
+submodule = "plugins/gruber-flavors"
+version = "0.7.0"
+
+[gruvbox-ish]
+submodule = "plugins/gruvbox-ish"
+version = "0.0.1"
+
+[gruvbox-material]
+submodule = "plugins/gruvbox-material"
+version = "1.0.0"
+
+[hacker-night-vision]
+submodule = "plugins/hacker-night-vision"
+version = "2.0.0"
+
+[halcyon]
+submodule = "plugins/halcyon"
+version = "0.0.5"
+
+[hami-melon-theme]
+submodule = "plugins/hami-melon-theme"
+version = "0.1.0"
+
+[haml]
+submodule = "plugins/haml"
+version = "0.1.0"
+
+[hare]
+submodule = "plugins/hare"
+version = "0.0.1"
+
+[harper]
+submodule = "plugins/harper"
+version = "0.0.4"
+
+[haskell]
+submodule = "plugins/khulnasoft"
+path = "plugins/haskell"
+version = "0.1.3"
+
+[haxe]
+submodule = "plugins/haxe"
+version = "0.2.0"
+
+[helm]
+submodule = "plugins/helm"
+version = "0.0.1"
+
+[hex-light-theme]
+submodule = "plugins/hex-light-theme"
+version = "0.0.3"
+
+[hivacruz-theme]
+submodule = "plugins/hivacruz-theme"
+version = "0.1.0"
+
+[hlsl]
+submodule = "plugins/hlsl"
+version = "0.0.1"
+
+[horizon]
+submodule = "plugins/horizon"
+version = "0.0.1"
+
+[html]
+submodule = "plugins/khulnasoft"
+path = "plugins/html"
+version = "0.1.5"
+
+[http]
+submodule = "plugins/http"
+version = "0.0.1"
+
+[hurl]
+submodule = "plugins/hurl"
+version = "0.1.0"
+
+[ical]
+submodule = "plugins/ical"
+version = "0.1.0"
+
+[iceberg]
+submodule = "plugins/iceberg"
+version = "0.2.10"
+
+[iceicebergy]
+submodule = "plugins/iceicebergy"
+version = "0.3.14"
+
+[idris2]
+submodule = "plugins/idris2"
+version = "0.0.1"
+
+[indigo]
+submodule = "plugins/indigo"
+version = "0.1.2"
+
+[inform6]
+submodule = "plugins/inform6"
+version = "1.0.0"
+
+[ini]
+submodule = "plugins/ini"
+version = "0.0.4"
+
+[intellij-newui-theme]
+submodule = "plugins/intellij-newui-theme"
+version = "0.1.0"
+
+[isle]
+submodule = "plugins/isle"
+version = "0.0.1"
+
+[iwe]
+submodule = "plugins/iwe"
+version = "0.0.2"
+
+[janet]
+submodule = "plugins/janet"
+version = "0.0.1"
+
+[java]
+submodule = "plugins/java"
+version = "6.0.0"
+
+[java-eclipse-jdtls]
+submodule = "plugins/java-eclipse-jdtls"
+version = "0.2.4"
+
+[jetbrains-new-ui-icons]
+submodule = "plugins/jetbrains-new-ui-icons"
+version = "2.0.2"
+
+[jinja2]
+submodule = "plugins/jinja2"
+version = "0.0.1"
+
+[jsonnet]
+submodule = "plugins/jsonnet"
+version = "0.3.1"
+
+[julia]
+submodule = "plugins/julia"
+version = "0.1.4"
+
+[just]
+submodule = "plugins/just"
+version = "0.1.3"
+
+[kamui-dark-theme]
+submodule = "plugins/kamui-dark-theme"
+version = "0.0.1"
+
+[kanagawa-themes]
+submodule = "plugins/kanagawa-themes"
+version = "0.1.1"
+
+[kconfig]
+submodule = "plugins/kconfig"
+version = "0.1.0"
+
+[kdl]
+submodule = "plugins/kdl"
+version = "0.0.1"
+
+[khulnasoft-legacy-themes]
+submodule = "plugins/khulnasoft-legacy-themes"
+version = "0.0.2"
+
+[khulnasoftokai]
+submodule = "plugins/khulnasoftokai"
+version = "1.2.1"
+
+[khulnasoftrack-theme]
+submodule = "plugins/khulnasoftrack-theme"
+version = "0.0.6"
+
+[khulnasoftspace]
+submodule = "plugins/khulnasoftspace"
+version = "0.0.1"
+
+[khulnasoftwaita]
+submodule = "plugins/khulnasoftwaita"
+version = "0.0.5"
+
+[kiselevka]
+submodule = "plugins/kiselevka"
+version = "0.0.1"
+
+[kotlin]
+submodule = "plugins/kotlin"
+version = "0.1.1"
+
+[ktrz-monokai]
+submodule = "plugins/ktrz-monokai"
+version = "0.0.3"
+
+[kubesong]
+submodule = "plugins/kubesong"
+version = "1.0.0"
+
+[latex]
+submodule = "plugins/latex"
+version = "0.1.10"
+
+[leblackque]
+submodule = "plugins/leblackque"
+version = "1.0.1"
+
+[ledger]
+submodule = "plugins/ledger"
+version = "0.1.0"
+
+[less]
+submodule = "plugins/less"
+version = "0.0.1"
+
+[libsql-context-server]
+submodule = "plugins/libsql-context-server"
+version = "0.0.1"
+
+[lilypond]
+submodule = "plugins/lilypond"
+version = "0.0.6"
+
+[liquid]
+submodule = "plugins/liquid"
+version = "0.1.0"
+
+[live-server]
+submodule = "plugins/live-server"
+version = "0.3.0"
+
+[log]
+submodule = "plugins/log"
+version = "0.0.6"
+
+[lox]
+submodule = "plugins/lox"
+version = "0.0.1"
+
+[ltex]
+submodule = "plugins/ltex"
+version = "0.0.6"
+
+[lua]
+submodule = "plugins/khulnasoft"
+path = "plugins/lua"
+version = "0.1.1"
+
+[luau]
+submodule = "plugins/luau"
+version = "0.2.2"
+
+[lusch-theme]
+submodule = "plugins/lusch-theme"
+version = "0.6.0"
+
+[lydia]
+submodule = "plugins/lydia"
+version = "0.0.1"
+
+[macos-classic]
+submodule = "plugins/macos-classic"
+version = "0.2.2"
+
+[make]
+submodule = "plugins/make"
+version = "1.0.1"
+
+[malibu]
+submodule = "plugins/malibu"
+version = "0.0.1"
+
+[mariana-theme]
+submodule = "plugins/mariana-theme"
+version = "0.9.0"
+
+[marine-dark]
+submodule = "plugins/marine-dark"
+version = "1.0.0"
+
+[markdown-oxide]
+submodule = "plugins/markdown-oxide"
+version = "0.0.4"
+
+[marksman]
+submodule = "plugins/marksman"
+version = "0.0.3"
+
+[martianikhulnasoft]
+submodule = "plugins/martianikhulnasoft"
+version = "1.0.0"
+
+[material-dark]
+submodule = "plugins/material-dark"
+version = "0.0.1"
+
+[material-icon-theme]
+submodule = "plugins/material-icon-theme"
+version = "0.1.2"
+
+[material-theme]
+submodule = "plugins/material-theme"
+version = "0.0.1"
+
+[matlab]
+submodule = "plugins/matlab"
+version = "0.0.1"
+
+[mau]
+submodule = "plugins/mau"
+version = "0.0.4"
+
+[maya]
+submodule = "plugins/maya"
+version = "0.4.5"
+
+[melange]
+submodule = "plugins/melange"
+version = "0.0.4"
+
+[mellow]
+submodule = "plugins/mellow"
+version = "0.0.1"
+
+[mermaid]
+submodule = "plugins/mermaid"
+version = "0.1.0"
+
+[meson]
+submodule = "plugins/meson"
+version = "0.3.0"
+
+[min-theme]
+submodule = "plugins/min-theme"
+version = "0.0.1"
+
+[modest-dark]
+submodule = "plugins/modest-dark"
+version = "0.1.5"
+
+[modus-themes]
+submodule = "plugins/modus-themes"
+version = "0.0.9"
+
+[monokai-reversed]
+submodule = "plugins/monokai-reversed"
+version = "0.0.2"
+
+[monokai-vibrant-amped]
+submodule = "plugins/monokai-vibrant-amped"
+version = "0.0.2"
+
+[monolith]
+submodule = "plugins/monolith"
+version = "0.0.3"
+
+[monosami]
+submodule = "plugins/monosami"
+version = "0.1.1"
+
+[monospace-theme]
+submodule = "plugins/monospace-theme"
+version = "0.1.3"
+
+[moonlight]
+submodule = "plugins/moonlight"
+version = "0.0.1"
+
+[mosel]
+submodule = "plugins/mosel"
+version = "0.0.2"
+
+[move]
+submodule = "plugins/move"
+version = "0.0.1"
+
+[move-aptos]
+submodule = "plugins/move-aptos"
+version = "0.0.1"
+
+[msun-dark]
+submodule = "plugins/msun-dark"
+version = "0.0.6"
+
+[muted]
+submodule = "plugins/muted"
+version = "0.0.1"
+
+[nanowise]
+submodule = "plugins/nanowise"
+version = "0.1.0"
+
+[napalm]
+submodule = "plugins/napalm"
+version = "0.0.2"
+
+[navi]
+submodule = "plugins/navi"
+version = "0.4.0"
+
+[nebula-pulse]
+submodule = "plugins/nebula-pulse"
+version = "0.0.3"
+
+[neocmake]
+submodule = "plugins/neocmake"
+version = "0.0.5"
+
+[neon-cyberpunk]
+submodule = "plugins/neon-cyberpunk"
+version = "0.0.1"
+
+[neosolarikhulnasoft]
+submodule = "plugins/neosolarikhulnasoft"
+version = "0.0.2"
+
+[neovim-default]
+submodule = "plugins/neovim-default"
+version = "0.2.0"
+
+[new-darcula]
+submodule = "plugins/new-darcula"
+version = "1.0.7"
+
+[nginx]
+submodule = "plugins/nginx"
+version = "0.0.1"
+
+[nickel]
+submodule = "plugins/nickel"
+version = "0.0.1"
+
+[night-owlz]
+submodule = "plugins/night-owlz"
+version = "0.0.3"
+
+[nightfox]
+submodule = "plugins/nightfox"
+version = "0.0.1"
+
+[nim]
+submodule = "plugins/nim"
+version = "0.1.0"
+
+[nix]
+submodule = "plugins/nix"
+version = "0.1.1"
+
+[nobin-theme]
+submodule = "plugins/nobin-theme"
+version = "0.0.1"
+
+[noir]
+submodule = "plugins/noir"
+version = "0.0.1"
+
+[nord]
+submodule = "plugins/nord"
+version = "0.0.11"
+
+[nordic-nvim-theme]
+submodule = "plugins/nordic-nvim-theme"
+version = "0.0.1"
+
+[nordic-theme]
+submodule = "plugins/nordic-theme"
+version = "0.5.0"
+
+[norminette]
+submodule = "plugins/norminette"
+version = "0.2.1"
+
+[norrsken]
+submodule = "plugins/norrsken"
+version = "3.0.1"
+
+[not-material-theme]
+submodule = "plugins/not-material-theme"
+version = "0.0.1"
+
+[nstlgy-dark]
+submodule = "plugins/nstlgy-dark"
+version = "0.0.1"
+
+[nu]
+submodule = "plugins/nu"
+version = "0.0.4"
+
+[nuisance]
+submodule = "plugins/nuisance"
+version = "0.0.7"
+
+[nvim-nightfox]
+submodule = "plugins/nvim-nightfox"
+version = "0.2.0"
+
+[nyxvamp-theme]
+submodule = "plugins/nyxvamp-theme"
+version = "0.0.1"
+
+[oasis]
+submodule = "plugins/oasis"
+version = "0.0.1"
+
+[obsidian-sunset]
+submodule = "plugins/obsidian-sunset"
+version = "1.1.0"
+
+[ocaml]
+submodule = "plugins/ocaml"
+version = "0.1.4"
+
+[ocean-dark-motifs]
+submodule = "plugins/ocean-dark-motifs"
+version = "0.0.2"
+
+[oceanic-next]
+submodule = "plugins/oceanic-next"
+version = "0.3.0"
+
+[odin]
+submodule = "plugins/odin"
+version = "0.2.1"
+
+[oh-lucy]
+submodule = "plugins/oh-lucy"
+version = "0.0.1"
+
+[omnetpp]
+submodule = "plugins/omnetpp"
+version = "0.0.2"
+
+[one-black-theme]
+submodule = "plugins/one-black-theme"
+version = "0.0.3"
+
+[one-dark-darkened]
+submodule = "plugins/one-dark-darkened"
+version = "0.0.1"
+
+[one-dark-extended]
+submodule = "plugins/one-dark-extended"
+version = "0.0.2"
+
+[one-dark-flat]
+submodule = "plugins/one-dark-flat"
+version = "0.1.0"
+
+[one-dark-pro]
+submodule = "plugins/one-dark-pro"
+version = "0.0.9"
+
+[one-dark-pro-monokai-darker]
+submodule = "plugins/one-dark-pro-monokai-darker"
+version = "0.1.1"
+
+[one-hunter]
+submodule = "plugins/one-hunter"
+version = "0.0.4"
+
+[onurb]
+submodule = "plugins/onurb"
+version = "0.1.0"
+
+[oolong]
+submodule = "plugins/oolong"
+version = "0.1.0"
+
+[openmoji-icons]
+submodule = "plugins/openmoji-icons"
+version = "0.2.0"
+
+[openscad]
+submodule = "plugins/openscad"
+version = "0.0.1"
+
+[org]
+submodule = "plugins/org"
+version = "0.0.1"
+
+[outrun]
+submodule = "plugins/outrun"
+version = "0.0.1"
+
+[oxc]
+submodule = "plugins/oxc"
+version = "0.1.3"
+
+[oxlint]
+submodule = "plugins/oxlint"
+version = "0.0.1"
+
+[oxocarbon]
+submodule = "plugins/oxocarbon"
+version = "0.1.3"
+
+[pact]
+submodule = "plugins/pact"
+version = "0.0.3"
+
+[palenight]
+submodule = "plugins/palenight"
+version = "0.0.1"
+
+[panda-theme]
+submodule = "plugins/panda-theme"
+version = "0.8.0"
+
+[paraiso]
+submodule = "plugins/paraiso"
+version = "1.0.1"
+
+[path-of-exile]
+submodule = "plugins/path-of-exile"
+version = "0.0.1"
+
+[penumbra]
+submodule = "plugins/penumbra"
+version = "0.1.1"
+
+[perl]
+submodule = "plugins/perl"
+version = "0.1.1"
+
+[perm]
+submodule = "plugins/perm"
+version = "0.0.4"
+
+[perplexity]
+submodule = "plugins/khulnasoft"
+path = "plugins/perplexity"
+version = "0.1.0"
+
+[pest]
+submodule = "plugins/pest"
+version = "0.1.0"
+
+[phine-theme]
+submodule = "plugins/phine-theme"
+version = "0.0.1"
+
+[php]
+submodule = "plugins/php"
+version = "0.2.7"
+
+[pica200]
+submodule = "plugins/pica200"
+version = "0.0.2"
+
+[pinata-theme]
+submodule = "plugins/pinata-theme"
+version = "0.0.1"
+
+[pkl]
+submodule = "plugins/pkl"
+version = "0.1.0"
+
+[plantuml]
+submodule = "plugins/plantuml"
+version = "0.1.0"
+
+[playdate]
+submodule = "plugins/playdate"
+version = "0.1.1"
+
+[po]
+submodule = "plugins/po"
+version = "0.1.0"
+
+[poimandres]
+submodule = "plugins/poimandres"
+version = "0.0.4"
+
+[polar-theme]
+submodule = "plugins/polar-theme"
+version = "0.8.0"
+
+[postgres-context-server]
+submodule = "plugins/postgres-context-server"
+version = "0.0.1"
+
+[powershell]
+submodule = "plugins/powershell"
+version = "0.1.0"
+
+[prisma]
+submodule = "plugins/prisma"
+version = "0.1.0"
+
+[prolog]
+submodule = "plugins/prolog"
+version = "0.0.1"
+
+[proto]
+submodule = "plugins/khulnasoft"
+path = "plugins/proto"
+version = "0.2.1"
+
+[psalm]
+submodule = "plugins/psalm"
+version = "0.0.1"
+
+[pug]
+submodule = "plugins/pug"
+version = "0.0.1"
+
+[purescript]
+submodule = "plugins/khulnasoft"
+path = "plugins/purescript"
+version = "0.1.0"
+
+[purr]
+submodule = "plugins/purr"
+version = "0.0.4"
+
+[pylsp]
+submodule = "plugins/pylsp"
+version = "0.0.1"
+
+[python-refactoring]
+submodule = "plugins/python-refactoring"
+version = "0.0.3"
+
+[qml]
+submodule = "plugins/qml"
+version = "0.0.3"
+
+[quakec]
+submodule = "plugins/quakec"
+version = "0.0.2"
+
+[quiet-light-theme]
+submodule = "plugins/quiet-light-theme"
+version = "0.7.0"
+
+[quill]
+submodule = "plugins/quill"
+version = "0.2.2"
+
+[r]
+submodule = "plugins/r"
+version = "0.0.4"
+
+[racket]
+submodule = "plugins/racket"
+version = "0.0.3"
+
+[rainbow-csv]
+submodule = "plugins/rainbow-csv"
+version = "0.0.3"
+
+[rcl]
+submodule = "plugins/rcl"
+version = "0.5.0"
+
+[rego]
+submodule = "plugins/rego"
+version = "0.0.2"
+
+[relay]
+submodule = "plugins/relay"
+version = "0.0.2"
+
+[replicant]
+submodule = "plugins/replicant"
+version = "0.0.2"
+
+[rescript]
+submodule = "plugins/rescript"
+version = "0.2.0"
+
+[rhai]
+submodule = "plugins/rhai"
+version = "0.0.1"
+
+[roc]
+submodule = "plugins/roc"
+version = "0.0.6"
+
+[ron]
+submodule = "plugins/ron"
+version = "0.0.1"
+
+[rose-pine-theme]
+submodule = "plugins/rose-pine-theme"
+version = "1.1.2"
+
+[rpmspec]
+submodule = "plugins/rpmspec"
+version = "0.0.1"
+
+[rst]
+submodule = "plugins/rst"
+version = "0.0.1"
+
+[ruby]
+submodule = "plugins/ruby"
+version = "0.4.6"
+
+[ruff]
+submodule = "plugins/khulnasoft"
+path = "plugins/ruff"
+version = "0.1.0"
+
+[s-dark-theme]
+submodule = "plugins/s-dark-theme"
+version = "1.0.3"
+
+[sagemath]
+submodule = "plugins/sagemath"
+version = "0.1.0"
+
+[scala]
+submodule = "plugins/scala"
+version = "0.1.2"
+
+[scheme]
+submodule = "plugins/scheme"
+version = "0.0.4"
+
+[scls]
+submodule = "plugins/scls"
+version = "0.0.1"
+
+[scss]
+submodule = "plugins/scss"
+version = "0.0.4"
+
+[serendipity]
+submodule = "plugins/serendipity"
+version = "0.0.7"
+
+[short-giraffe-theme]
+submodule = "plugins/short-giraffe-theme"
+version = "2.0.0"
+
+[simple-darker]
+submodule = "plugins/simple-darker"
+version = "0.0.1"
+
+[simula]
+submodule = "plugins/simula"
+version = "0.0.1"
+
+[siri]
+submodule = "plugins/siri"
+version = "0.0.11"
+
+[slate]
+submodule = "plugins/slate"
+version = "0.0.2"
+
+[slim]
+submodule = "plugins/slim"
+version = "1.0.1"
+
+[slint]
+submodule = "plugins/slint"
+version = "0.0.3"
+
+[smithy]
+submodule = "plugins/smithy"
+version = "0.0.1"
+
+[sml]
+submodule = "plugins/sml"
+version = "0.1.0"
+
+[smooth]
+submodule = "plugins/smooth"
+version = "1.0.0"
+
+[snakemake]
+submodule = "plugins/snakemake"
+version = "0.1.0"
+
+[snippets]
+submodule = "plugins/khulnasoft"
+path = "plugins/snippets"
+version = "0.0.5"
+
+[snow-fox-theme]
+submodule = "plugins/snow-fox-theme"
+version = "0.0.1"
+
+[snowfall]
+submodule = "plugins/snowfall"
+version = "0.1.0"
+
+[snowflake]
+submodule = "plugins/snowflake"
+version = "1.0.0"
+
+[solarikhulnasoft-fp]
+submodule = "plugins/solarikhulnasoft-fp"
+version = "0.0.1"
+
+[solidity]
+submodule = "plugins/solidity"
+version = "0.1.3"
+
+[sorbet]
+submodule = "plugins/sorbet"
+version = "0.1.0"
+
+[sourcepawn]
+submodule = "plugins/sourcepawn"
+version = "0.0.1"
+
+[sql]
+submodule = "plugins/sql"
+version = "1.1.2"
+
+[sqruff]
+submodule = "plugins/sqruff"
+version = "0.1.0"
+
+[srcery]
+submodule = "plugins/srcery"
+version = "0.0.2"
+
+[ssh-config]
+submodule = "plugins/ssh-config"
+version = "0.1.0"
+
+[stan]
+submodule = "plugins/stan"
+version = "0.0.1"
+
+[starlark]
+submodule = "plugins/starlark"
+version = "0.2.0"
+
+[stimulus]
+submodule = "plugins/stimulus"
+version = "0.0.2"
+
+[strace]
+submodule = "plugins/strace"
+version = "0.0.2"
+
+[struct-theme]
+submodule = "plugins/struct-theme"
+version = "0.0.1"
+
+[sublime-mariana-theme]
+submodule = "plugins/sublime-mariana-theme"
+version = "1.1.0"
+
+[superhtml]
+submodule = "plugins/superhtml"
+version = "0.1.0"
+
+[surrealql]
+submodule = "plugins/surrealql"
+version = "0.0.2"
+
+[svelte]
+submodule = "plugins/svelte"
+version = "0.2.4"
+
+[swift]
+submodule = "plugins/swift"
+version = "0.3.2"
+
+[symbols]
+submodule = "plugins/symbols"
+version = "0.1.0"
+
+[syntax]
+submodule = "plugins/syntax"
+version = "0.0.1"
+
+[synthwave]
+submodule = "plugins/synthwave"
+version = "0.0.1"
+
+[tailwind-theme]
+submodule = "plugins/tailwind-theme"
+version = "0.5.0"
+
+[tanuki]
+submodule = "plugins/tanuki"
+version = "0.0.1"
+
+[templ]
+submodule = "plugins/templ"
+version = "0.0.6"
+
+[tera]
+submodule = "plugins/tera"
+version = "1.1.0"
+
+[terraform]
+submodule = "plugins/khulnasoft"
+path = "plugins/terraform"
+version = "0.1.2"
+
+[terrible-theme]
+submodule = "plugins/terrible-theme"
+version = "0.0.3"
+
+[the-dark-side]
+submodule = "plugins/the-dark-side"
+version = "0.2.5"
+
+[tmux]
+submodule = "plugins/tmux"
+version = "0.0.2"
+
+[tokyo-night]
+submodule = "plugins/tokyo-night"
+version = "0.5.0"
+
+[toml]
+submodule = "plugins/khulnasoft"
+path = "plugins/toml"
+version = "0.1.3"
+
+[tomorrow-theme]
+submodule = "plugins/tomorrow-theme"
+version = "0.9.0"
+
+[tree-sitter-query]
+submodule = "plugins/tree-sitter-query"
+version = "0.0.1"
+
+[tsar]
+submodule = "plugins/tsar"
+version = "0.0.2"
+
+[tsarcasm]
+submodule = "plugins/tsarcasm"
+version = "0.0.9"
+
+[twig]
+submodule = "plugins/twig"
+version = "0.2.0"
+
+[twilight]
+submodule = "plugins/twilight"
+version = "0.1.0"
+
+[typos]
+submodule = "plugins/typos"
+version = "0.0.4"
+
+[typst]
+submodule = "plugins/typst"
+version = "0.1.0"
+
+[uiua]
+submodule = "plugins/khulnasoft"
+path = "plugins/uiua"
+version = "0.0.1"
+
+[ultimate-dark-neo]
+submodule = "plugins/ultimate-dark-neo"
+version = "0.0.5"
+
+[underground-theme]
+submodule = "plugins/underground-theme"
+version = "1.0.0"
+
+[unicode]
+submodule = "plugins/unicode"
+version = "0.1.5"
+
+[unison]
+submodule = "plugins/unison"
+version = "0.0.5"
+
+[unocss]
+submodule = "plugins/unocss"
+version = "0.0.1"
+
+[unoflat]
+submodule = "plugins/unoflat"
+version = "0.1.2"
+
+[v]
+submodule = "plugins/v"
+version = "0.4.1"
+
+[v0-theme]
+submodule = "plugins/v0-theme"
+version = "0.5.0"
+
+[vacuum]
+submodule = "plugins/vacuum"
+version = "0.1.0"
+
+[vala]
+submodule = "plugins/vala"
+version = "0.2.0"
+
+[vale]
+submodule = "plugins/vale"
+version = "0.0.2"
+
+[vapor-theme]
+submodule = "plugins/vapor-theme"
+version = "0.0.2"
+
+[vcard]
+submodule = "plugins/vcard"
+version = "0.1.1"
+
+[vento]
+submodule = "plugins/vento"
+version = "0.0.1"
+
+[vercel-theme]
+submodule = "plugins/vercel-theme"
+version = "0.0.6"
+
+[verilog]
+submodule = "plugins/verilog"
+version = "0.0.6"
+
+[vesper]
+submodule = "plugins/vesper"
+version = "0.0.2"
+
+[vhdl]
+submodule = "plugins/vhdl"
+version = "0.0.1"
+
+[vhs]
+submodule = "plugins/vhs"
+version = "0.1.0"
+
+[vintergata]
+submodule = "plugins/vintergata"
+version = "0.0.1"
+
+[visual-assist-dark]
+submodule = "plugins/visual-assist-dark"
+version = "0.0.3"
+
+[vitesse]
+submodule = "plugins/vitesse"
+version = "0.0.2"
+
+[vitesse-theme-refined]
+submodule = "plugins/vitesse-theme-refined"
+version = "0.0.2"
+
+[vrl]
+submodule = "plugins/vrl"
+version = "0.1.0"
+
+[vscode-classic-theme]
+submodule = "plugins/vscode-classic-theme"
+version = "0.0.1"
+
+[vscode-dark-high-contrast]
+submodule = "plugins/vscode-dark-high-contrast"
+version = "1.0.0"
+
+[vscode-dark-modern]
+submodule = "plugins/vscode-dark-modern"
+version = "0.0.5"
+
+[vscode-dark-plus]
+submodule = "plugins/vscode-dark-plus"
+version = "0.0.1"
+
+[vscode-great-icons]
+submodule = "plugins/vscode-great-icons"
+version = "0.2.1"
+
+[vscode-icons]
+submodule = "plugins/vscode-icons"
+version = "0.2.0"
+
+[vscode-light-plus]
+submodule = "plugins/vscode-light-plus"
+version = "0.0.1"
+
+[vscode-monokai-charcoal]
+submodule = "plugins/vscode-monokai-charcoal"
+version = "0.0.2"
+
+[vue]
+submodule = "plugins/vue"
+version = "0.2.1"
+
+[wakatime]
+submodule = "plugins/wakatime"
+version = "0.1.7"
+
+[wakfu-theme]
+submodule = "plugins/wakfu-theme"
+version = "0.1.1"
+
+[warp-one-dark]
+submodule = "plugins/warp-one-dark"
+version = "0.1.1"
+
+[wat]
+submodule = "plugins/wat"
+version = "0.1.0"
+
+[wdl]
+submodule = "plugins/wdl"
+version = "0.0.1"
+
+[wgsl]
+submodule = "plugins/wgsl"
+version = "0.0.1"
+
+[whkd]
+submodule = "plugins/whkd"
+version = "0.1.0"
+
+[wit]
+submodule = "plugins/wit"
+version = "0.4.0"
+
+[xcode-themes]
+submodule = "plugins/xcode-themes"
+version = "2.0.1"
+
+[xml]
+submodule = "plugins/xml"
+version = "0.0.8"
+
+[xy-khulnasoft]
+submodule = "plugins/xy-khulnasoft"
+version = "0.1.1"
+
+[yaka]
+submodule = "plugins/yaka"
+version = "0.0.2"
+
+[yara]
+submodule = "plugins/yara"
+version = "0.0.3"
+
+[yellowed]
+submodule = "plugins/yellowed"
+version = "0.0.3"
+
+[yogi-amoled]
+submodule = "plugins/yogi-amoled"
+path = "Khulnasoft/yogi-amoled"
+version = "0.1.0"
+
+[yue-theme]
+submodule = "plugins/yue-theme"
+version = "1.2.0"
+
+[zen-abyssal]
+submodule = "plugins/zen-abyssal"
+version = "1.2.0"
+
+[zig]
+submodule = "plugins/khulnasoft"
+path = "plugins/zig"
+version = "0.3.3"
+
+[ziggy]
+submodule = "plugins/ziggy"
+version = "0.0.1"
