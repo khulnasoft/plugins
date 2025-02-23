@@ -11,7 +11,7 @@ concurrency:
   cancel-in-progress: ${{ github.ref != 'refs/heads/main' }}
 
 env:
-  KHULNASOFT_EXTENSION_CLI_SHA: 5a25751521d3f6e9da51eb5d0af34dc25d9b7ce8
+  KHULNASOFT_PLUGIN_CLI_SHA: 5a25751521d3f6e9da51eb5d0af34dc25d9b7ce8
 
 jobs:
   package:
@@ -33,13 +33,13 @@ jobs:
           node-version: "20"
           cache: "pnpm"
 
-      - name: Cache khulnasoft-extension CLI
-        id: cache-khulnasoft-extension
+      - name: Cache khulnasoft-plugin CLI
+        id: cache-khulnasoft-plugin
         uses: actions/cache@0c907a75c2c80ebcb7f088228285e798b750cf8f # v4
         with:
           path: |
-            khulnasoft-extension
-          key: khulnasoft-extension-${{ env.KHULNASOFT_EXTENSION_CLI_SHA }}
+            khulnasoft-plugin
+          key: khulnasoft-plugin-${{ env.KHULNASOFT_PLUGIN_CLI_SHA }}
 
       - name: Install dependencies
         run: pnpm install

@@ -1,25 +1,25 @@
-const EXTENSION_ID_PATTERN = /^[a-z0-9\-]+$/;
+const PLUGIN_ID_PATTERN = /^[a-z0-9\-]+$/;
 
 /**
  * Exceptions to the rule of extension IDs starting in `khulnasoft-`.
  *
  * Only to be edited by Khulnasoft staff.
  */
-const EXTENSION_ID_STARTS_WITH_EXCEPTIONS = ["khulnasoft-legacy-themes"];
+const PLUGIN_ID_STARTS_WITH_EXCEPTIONS = ["khulnasoft-legacy-themes"];
 
 /**
  * Exceptions to the rule of extension IDs ending in `-khulnasoft`.
  *
  * Only to be edited by Khulnasoft staff.
  */
-const EXTENSION_ID_ENDS_WITH_EXCEPTIONS = ["xy-khulnasoft"];
+const PLUGIN_ID_ENDS_WITH_EXCEPTIONS = ["xy-khulnasoft"];
 
 /**
  * @param {Record<string, any>} pluginsToml
  */
 export function validateExtensionsToml(pluginsToml) {
   for (const [extensionId, _extensionInfo] of Object.entries(pluginsToml)) {
-    if (!EXTENSION_ID_PATTERN.test(extensionId)) {
+    if (!PLUGIN_ID_PATTERN.test(extensionId)) {
       throw new Error(
         `Extension IDs must only consist of lowercase letters, numbers, and hyphens ('-'): "${extensionId}".`,
       );
@@ -27,7 +27,7 @@ export function validateExtensionsToml(pluginsToml) {
 
     if (
       extensionId.startsWith("khulnasoft-") &&
-      !EXTENSION_ID_STARTS_WITH_EXCEPTIONS.includes(extensionId)
+      !PLUGIN_ID_STARTS_WITH_EXCEPTIONS.includes(extensionId)
     ) {
       throw new Error(
         `Extension IDs should not start with "khulnasoft-", as they are all Khulnasoft plugins: "${extensionId}".`,
@@ -36,7 +36,7 @@ export function validateExtensionsToml(pluginsToml) {
 
     if (
       extensionId.endsWith("-khulnasoft") &&
-      !EXTENSION_ID_ENDS_WITH_EXCEPTIONS.includes(extensionId)
+      !PLUGIN_ID_ENDS_WITH_EXCEPTIONS.includes(extensionId)
     ) {
       throw new Error(
         `Extension IDs should not end with "-khulnasoft", as they are all Khulnasoft plugins: "${extensionId}".`,

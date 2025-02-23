@@ -73,7 +73,7 @@ const s3 = new S3({
   },
 });
 
-const EXTENSIONS_PREFIX = "plugins";
+const PLUGINS_PREFIX = "plugins";
 
 // Get the list of extension versions in the repository.
 const pluginsToml = await readTomlFile("plugins.toml");
@@ -167,7 +167,7 @@ async function packageExtension(
   }
 
   const khulnasoftExtensionOutput = await exec(
-    "./khulnasoft-extension",
+    "./khulnasoft-plugin",
     [
       "--scratch-dir",
       SCRATCH_DIR,
@@ -219,7 +219,7 @@ async function packageExtension(
       await s3.send(
         new PutObjectCommand({
           Bucket: S3_BUCKET,
-          Key: `${EXTENSIONS_PREFIX}/${extensionId}/${extensionVersion}/${filename}`,
+          Key: `${PLUGINS_PREFIX}/${extensionId}/${extensionVersion}/${filename}`,
           Body: data,
         }),
       );
@@ -237,7 +237,7 @@ async function getPublishedVersionsByExtensionId() {
   do {
     const bucketList = await s3.listObjects({
       Bucket: S3_BUCKET,
-      Prefix: `${EXTENSIONS_PREFIX}/`,
+      Prefix: `${PLUGINS_PREFIX}/`,
       ...(nextMarker ? { Marker: nextMarker } : {}),
     });
 
